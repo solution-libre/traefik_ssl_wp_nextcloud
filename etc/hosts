@@ -1,0 +1,4 @@
+# /etc/hosts line to add to make this example work
+127.0.0.1	localhost sdv.com wp.sdv.com traefik-ui.sdv.com  nextcloud.sdv.com
+
+
